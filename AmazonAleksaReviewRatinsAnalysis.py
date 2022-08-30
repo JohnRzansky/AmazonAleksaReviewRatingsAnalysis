@@ -7,3 +7,4 @@ data_frame_alexa = pd.read_csv("amazon_alexa.tsv", sep="\t")
 
 print("Testiranje")
 print("Testiram git")
+#nesto ne radi git, pa ga sredjujem
