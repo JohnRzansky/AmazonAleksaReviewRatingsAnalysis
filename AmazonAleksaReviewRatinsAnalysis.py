@@ -4,3 +4,6 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 
 data_frame_alexa = pd.read_csv("amazon_alexa.tsv", sep="\t")
+
+print("Testiranje")
+print("Testiram git")
